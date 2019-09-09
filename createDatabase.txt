@@ -1,0 +1,8 @@
+drop database if exists music;
+create database music charset utf8;
+use music;
+create table music
+(id      int(11)       primary key     auto_increment    not null,
+title varchar(150)  not null,
+artist    varchar(150)  not null,
+album varchar(150)  not null);
