@@ -1,6 +1,6 @@
 # ngtc-php-project
 
-Basic CRUD using PHP and MySQL. Database is 1 table with three columns. 
+Basic CRUD using PHP and MySQL. Database is 1 table with four columns. 
 
 Instructions: Download files into and place them in a folder in your root directory. Copy all text from the createDatabase.txt file
 and paste into PHPMyAdmin as follows:
