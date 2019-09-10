@@ -2,7 +2,7 @@
 
 Basic CRUD using PHP and MySQL. Database is 1 table with four columns. 
 
-Instructions: Download files into and place them in a folder in your root directory. Copy all text from the createDatabase.txt file
+Instructions: Download files and place them in a folder in your root directory. Copy all text from the createDatabase.txt file
 and paste into PHPMyAdmin as follows:
 
 In PHPMyAdmin, click "New" at top left. 
